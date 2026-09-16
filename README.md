@@ -52,5 +52,3 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/charankota1/codeforces/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
-
----
