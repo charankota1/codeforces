@@ -6,15 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 3 |
+| 5 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
+- [greedy](#greedy) (1)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
+- [sortings](#sortings) (1)
 
 ---
 
@@ -23,6 +25,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/charankota1/codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/charankota1/codeforces/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/charankota1/codeforces/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 
 ### hashing
 
@@ -38,6 +47,13 @@
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/charankota1/codeforces/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 104A | [Blackjack](https://codeforces.com/contest/104/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/charankota1/codeforces/blob/HEAD/104/A%20-%20Blackjack/solution.cpp) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/charankota1/codeforces/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/charankota1/codeforces/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/charankota1/codeforces/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 
 ---
 
